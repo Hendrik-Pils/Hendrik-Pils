@@ -1,6 +1,6 @@
 # Welcome, Gentlemen (and -women)!
 
-I've had ![Visitor Count](https://profile-counter.glitch.me/{Hendrik-Pils}/count.svg) visitors!
+![](https://komarev.com/ghpvc/?username=Hendrik-Pils&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 I am currently studying Web-Development at neue fische
 and generally active as a creative mastermind of all trades

@@ -1,4 +1,6 @@
-# Welcome, Gentlemen 
+# Welcome, Gentlemen (and -women)!
+
+I've had ![Visitor Count](https://profile-counter.glitch.me/{Hendrik-Pils}/count.svg) visitors!
 
 I am currently studying Web-Development at neue fische
 and generally active as a creative mastermind of all trades

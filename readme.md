@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Hendrik-Pils&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 I am currently studying Web-Development at neue fische
-and generally active as a creative mastermind of all trades
+and am generally active as a creative mastermind of all trades
 
 - Webdesign
 - Music & Movies

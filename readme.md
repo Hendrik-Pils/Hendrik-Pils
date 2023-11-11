@@ -13,4 +13,7 @@ and am generally active as a creative mastermind of all trades
 
 ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
 
-![Florence-Italy](https://th.bing.com/th/id/OIP.XtejoTg9lans_DWWrrBaAgHaE8?pid=ImgDet&rs=1)
+~ On the best of days I'm a loaded gun
+  On the worst of days I'm a burned out candle ~
+
+![Ashbury-Heights-Band](https://lastfm.freetls.fastly.net/i/u/770x0/9ad0d5d7ebfa65136a46dd294afc8c22.jpg#9ad0d5d7ebfa65136a46dd294afc8c22)

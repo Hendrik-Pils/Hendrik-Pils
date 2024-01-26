@@ -16,3 +16,6 @@ and am generally active as a creative mastermind of all trades
 ~ On the best of days I'm a loaded gun // 
   On the worst of days I'm a burned out candle ~
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Hendrik-Pils&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hendrik-Pils&langs_count=5&theme=tokyonight)]()
